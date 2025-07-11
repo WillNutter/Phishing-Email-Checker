@@ -13,17 +13,6 @@ This is a basic GUI application that checks email text files for phishing URLs u
 - Python 3.x
 - No external packages needed.
 
-## How to Run
-
-1. Open a terminal and navigate to the project directory.
-2. Run the script:
-
-```bash
-python phishing_email_checker.py
-```
-
-3. Use the GUI to select a `.txt` file containing the email text.
-
 ## License
 
 This project is open-source and free to use.
